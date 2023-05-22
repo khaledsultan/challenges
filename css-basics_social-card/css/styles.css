@@ -1,0 +1,28 @@
+* {
+  box-sizing: border-box;
+  margin-left: 10px;
+}
+
+body{
+  background-color: rgb(155, 164, 164);
+}
+img {
+  border-radius: 25%;
+}
+
+h2 {
+  text-transform: uppercase;
+  text-shadow: 1px 1px 2px pink;
+}
+
+button {
+  color: aqua;
+  background: none;
+  border: none;
+  margin-left:  0px; 
+   padding-left: 0px;
+}
+
+.account {
+  color: antiquewhite;
+}
