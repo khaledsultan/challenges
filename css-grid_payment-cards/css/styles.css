@@ -25,6 +25,10 @@ body {
   margin: 0 auto;
   padding: 2rem;
   max-width: 50rem;
+  display: grid;
+  gap: 20px;
+  grid-auto-flow: column;
+
 
   /* Add styles to the container */
 }
