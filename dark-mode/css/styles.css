@@ -16,11 +16,18 @@ body {
   background-color: #bac4c9;
   transition: 0.4s ease;
 }
-
-body.dark {
+/* .normal {
+  background-color: #bac4c9; */
+}
+.dark {
   background-color: rgb(50, 51, 58);
   color: white;
 }
+
+/* .light { background-color: white;
+  color: black;
+
+} */
 
 .button {
   padding: 14px 20px;
@@ -49,3 +56,4 @@ body.dark {
   background-color: rgb(28, 117, 235);
   color: black;
 }
+
