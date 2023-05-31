@@ -15,7 +15,7 @@ const personWithNameAgeEmail = {
 const personAlex = {
   name: "Alex",
   age: 24,
-};
+}; 
 
 const nameOfAlex = "Change me";
 const ageOfAlex = "Change me";
