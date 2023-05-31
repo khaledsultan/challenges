@@ -11,23 +11,30 @@ They should return the result of the respective calculation:
 */
 
 function add(a, b) {
-  // Code here
+  return a+b
 }
+
+let sum = add(5,6) ;
+// console.log(sum);
 
 function subtract(a, b) {
   // Code here
+  return a - b ;
 }
 
 function multiply(a, b) {
   // Code here
+  return a * b
 }
 
 function divide(a, b) {
   // Code here
+  return a / b
 }
 
 function remainder(a, b) {
   // Code here
+  return a % b
 }
 
 /*
