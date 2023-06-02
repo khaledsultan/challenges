@@ -22,10 +22,10 @@ const switchButton = document.querySelector('[data-js="button-switch"]');
 const lowercaseButton = document.querySelector('[data-js="button-lowercase"]');
 
 uppercaseButton.addEventListener("click", () => {
-  firstInput.value = firstInput.value.toUpperCase()
+  firstInput.value = firstInput.value.toUpperCase();
   secondInput.value = secondInput.value.toUpperCase();
 });
-
+ 
 switchButton.addEventListener("click", () => {
   let new_value = firstInput.value ;
   firstInput.value = secondInput.value;
