@@ -1,4 +1,4 @@
-# React Nesting: Buttons and Children
+d# React Nesting: Buttons and Children
 
 For now, there is a `Button` component in the [`src/App.js`](./src/App.js) which is rendered several times.
 
