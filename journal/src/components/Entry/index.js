@@ -1,5 +1,5 @@
 import React from "react";
-import star from "../imges/star.svg";
+import { ReactComponent as Star } from "../imges/star.svg";
 
 export default function Entry({ date, title, text }) {
   return (
@@ -9,7 +9,7 @@ export default function Entry({ date, title, text }) {
         <h3>
           <strong>"{title}"</strong>
         </h3>
-        {/* <img src="star.svg" alt="star"> */}
+        <Star />
         <p>{text}</p>
         <hr />
       </section>
