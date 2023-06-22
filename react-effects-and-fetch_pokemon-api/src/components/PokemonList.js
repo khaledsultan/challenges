@@ -15,8 +15,8 @@ useEffect(()=>{
       console.log(error);
     }
   }
-  loadPokemon()
-},[])  
+  loadPokemon
+}[])  
 
   return (
     <main>
